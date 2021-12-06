@@ -20,5 +20,3 @@ I'm a Web Developer who loves making high-quality websites and applications.
 
 - Email: stch.max.muhin@gmail.com
 - Telegram: @stonedch
-
-<img src="https://media.giphy.com/media/3o7TKOliZn5OBLLjVe/giphy.gif" alt="Coder GIF" width="500">
