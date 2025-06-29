@@ -1,6 +1,7 @@
-# Maxim Mukhin
+# Мухин Максим
 
-## How to reach me:
+## Как со мной связаться:
 
-- Email: stch.max.muhin@gmail.com
-- Telegram: @stonedch
+- E-mail: stch.max.muhin@gmail.com
+- Telegram: [@stonedch](https://t.me/stonedch)
+- Номер телефона: +7 (930) 692-49-13
