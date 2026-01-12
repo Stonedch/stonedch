@@ -1,96 +1,105 @@
-# Максим Мухин (Maxim Mukhin)
+# Мухин Максим Иванович
 
-## 👨‍💻 Professional Profile
+## 👨‍💻 Профессиональный профиль
 
-**Current Position:** Java (Spring Boot) Developer  
-**Previous Experience:** PHP (Laravel) Backend Developer  
-**Interests:** Music, Video Game Development
+**Текущая должность:** Java (Spring Boot) разработчик  
+**Предыдущий опыт:** PHP (Laravel) backend разработчик  
+**Интересы:** Музыка, разработка видеоигр
 
-## 📞 Contact Information
+## 📞 Контактная информация
 
 - **Email:** stch.max.muhin@gmail.com
 - **Telegram:** [@stonedch](https://t.me/stonedch)
-- **Phone:** +7 (930) 692-49-13
+- **Телефон:** +7 (930) 692-49-13
 - **GitHub:** [github.com/stonedch](https://github.com/stonedch)
-- **Resume:** https://nn.hh.ru/resume/b7de52cdff0754c2430039ed1f4a61696d6941
+- **Резюме:** https://nn.hh.ru/resume/b7de52cdff0754c2430039ed1f4a61696d6941
 
-## 💼 Work Experience
+## 💼 Опыт работы
 
-### ООО «Промолинк» (3 years 9 months)
+### ИП "Шкенин Павел Александрович" (Текущее место работы)
 
-**Lead PHP Developer**  
-*December 2021 — August 2025*
+**Java разработчик**  
+*Сентябр 2025 — настоящее время*
 
-Developed and maintained systems for government and social projects:
+- Разработка агрегатора мессенджеров (Avito, Telegram, VK, WhatsApp)
+- Разработка виджетов для Bitrix 24
+- Разработка микросервисов на Java (Spring Boot)
 
-**Key Projects:**
-1. **Social District Officer** (PHP/Laravel, Vue.js, Apache Cordova)
-2. **Initiative Voting Project "You Decide"** (PHP/Laravel)
-3. **Military Social Contract NN** (PHP/Laravel, Apache Cordova)
-4. **Co-author** (registered with Rospatent, certificate №2025669612) of centralized reporting collection system **"AIS Promolink"** (PHP/Laravel)  
+### ООО «Промолинк» (3 года 9 месяцев)
+
+**Ведущий PHP-разработчик**  
+*Декабрь 2021 — Август 2025*
+
+Разработал и поддерживал системы для государственных и социальных проектов:
+
+**Основные проекты:**
+1. **Социальный Участковый** (PHP/Laravel, Vue.js, Apache Cordova)
+2. **Проект инициативного голосования "Вам решать"** (PHP/Laravel)
+3. **Военный социальный контракт НН** (PHP/Laravel, Apache Cordova)
+4. **Соавтор** (зарегистрирована Роспатентом, свидетельство №2025669612) системы для централизованного сбора отчетов **"АИС Промолинк"** (PHP/Laravel)  
    GitHub: https://github.com/Stonedch/ais-promolink-demo
 
-**Maintained Projects:**
-1. **"Samurai" and "Agrosemfond" websites** (Bitrix)
-2. **"House of National Unity" website** (WordPress)
+**Поддерживаемые проекты:**
+1. Доработка сайтов **"Самурай"** и **"Агросемфонд"** (Bitrix)
+2. Разработка сайта **"Дом народного единства"** (WordPress)
 
-### Издательский центр "Академия" (6 months)
+### Издательский центр "Академия" (6 месяцев)
 
-**PHP Developer**  
-*June 2020 — November 2020*
+**PHP-разработчик**  
+*Июнь 2020 — Ноябрь 2020*
 
-Designed, implemented, and tested, as part of a team, a platform for online courses (interactive learning module content management system i-GVS).
+Проектирование, реализация и тестирование, в составе команды, платформы для онлайн-курсов (система управления контентом интерактивных обучающих модулей i-GVS).
 
-## 🎓 Education
+## 🎓 Образование
 
-### **Higher Education**
-**Moscow Technological Institute**  
-Internet Technologies and Mobile Applications  
-*Bachelor's Degree · Expected 2027*
+### **Высшее образование**
+**ОАНО ВО "Московский технологический институт"**  
+Интернет технологии и мобильные приложения  
+*Бакалавр · 2027*
 
-### **Secondary Specialized Education**
-**Lobachevsky State University of Nizhny Novgorod**  
-Information Systems  
+### **Среднее специальное образование**
+**Нижегородский государственный университет им. Н.И. Лобачевского**  
+Информационные системы  
 *2020*
 
-## 📚 Professional Development & Certifications
+## 📚 Повышение квалификации, курсы
 
-- **Information Systems in Business Processes**  
-  Moscow Technological Institute · 2025
+- **Информационные системы в бизнес-процессах**  
+  ОАНО ВО "Московский технологический институт" · 2025
 
-- **Information Security: Protection of Limited Access Information**  
-  Educational and Scientific Center for Information Security LLC · 2024
+- **Информационная безопасность. Обеспечение защиты информации ограниченного доступа, не содержащей сведения, составляющие государственную тайну, криптографическими и не криптографическими методами**  
+  Общество с ограниченной ответственностью "Учебно-научный центр информационной безопасности" · 2024
 
-## 🛠️ Technical Skills
+## 🛠️ Технические навыки
 
-**Current Stack:**
+**Текущий стек:**
 - Java (Spring Boot, Spring Security, Spring Data)
-- REST API Development
+- Разработка REST API
 - Docker & Docker Compose
 - PostgreSQL, Redis
-- Microservices Architecture
+- Микросервисная архитектура
 
-**Previous Stack:**
+**Предыдущий стек:**
 - PHP (Laravel, Symfony)
 - JavaScript (Vue.js)
-- Apache Cordova (Mobile Development)
+- Apache Cordova (мобильная разработка)
 - WordPress, Bitrix
 - MySQL, PostgreSQL
 
-**Tools & Practices:**
+**Инструменты и практики:**
 - Git, GitHub/GitLab
-- CI/CD Pipelines
-- Agile/Scrum Methodologies
-- API Design & Documentation
-- Database Design & Optimization
+- CI/CD пайплайны
+- Методологии Agile/Scrum
+- Дизайн и документация API
+- Проектирование и оптимизация баз данных
 
-## 🎵 Personal Interests
+## 🎵 Личные интересы
 
-- **Music:** Active engagement with various music genres and production
-- **Game Development:** Passion for creating and developing video games
-- **Open Source:** Contributor to various open-source projects
-- **Continuous Learning:** Regularly updating skills with latest technologies
+- **Музыка:** Активное участие в различных музыкальных жанрах и производстве
+- **Разработка игр:** Страсть к созданию и разработке видеоигр
+- **Open Source:** Участие в различных open-source проектах
+- **Непрерывное обучение:** Регулярное обновление навыков с помощью новых технологий
 
 ---
 
-*Looking for opportunities in backend development with Java/Spring Boot or PHP/Laravel stacks.*
+*Ищу возможности в backend-разработке на стеках Java/Spring Boot и PHP/Laravel.*
